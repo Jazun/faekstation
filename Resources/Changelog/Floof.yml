@@ -8349,6 +8349,7 @@ Entries:
   id: 889
   time: '2025-11-10T18:18:12.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1501
+<<<<<<< HEAD
 - author: PubliclyExecutedPig
   changes:
     - type: Tweak
@@ -8547,3 +8548,5 @@ Entries:
   id: 913
   time: '2025-11-15T18:16:46.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1518
+=======
+>>>>>>> 759966e0c2 (Floof Station V33.2 (#1529))
