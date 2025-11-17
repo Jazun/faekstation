@@ -1,0 +1,79 @@
+- type: soundCollection
+  id: Ominouses
+  files:
+    - /Audio/_faekstation/Effects/Emotes/snd_ominous.ogg
+
+- type: soundCollection
+  id: OminousCancels
+  files:
+    - /Audio/_faekstation/Effects/Emotes/snd_ominous_cancel.ogg
+    
+- type: soundCollection
+  id: WAPPAmazeds
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Amazed.ogg
+    
+- type: soundCollection
+  id: WAPPAngrys
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Angry.ogg
+    
+- type: soundCollection
+  id: WAPPByes
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Bye.ogg
+    
+- type: soundCollection
+  id: WAPPCheers
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Cheer.ogg
+    
+- type: soundCollection
+  id: WAPPConfuseds
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Confused.ogg
+    
+- type: soundCollection
+  id: WAPPCrys
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Cry.ogg
+    
+- type: soundCollection
+  id: WAPPDisgusts
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Disgust.ogg
+    
+- type: soundCollection
+  id: WAPPEvilLaughs
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-EvilLaugh.ogg
+    
+- type: soundCollection
+  id: WAPPFaints
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Faint.ogg
+    
+- type: soundCollection
+  id: WAPPHis
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Hi.ogg
+    
+- type: soundCollection
+  id: WAPPLaughs
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Laugh.ogg
+    
+- type: soundCollection
+  id: WAPPScreams
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Scream.ogg
+    
+- type: soundCollection
+  id: WAPPShockeds
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Shocked.ogg
+    
+- type: soundCollection
+  id: WAPPThinkings
+  files:
+    - /Audio/_faekstation/Effects/Emotes/WAPP-Thinking.ogg

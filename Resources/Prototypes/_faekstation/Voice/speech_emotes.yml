@@ -1,0 +1,226 @@
+- type: emote
+  id: Ominous
+  name: chat-emote-name-ominous
+  category: General
+  icon: _faekstation/Interface/Emotes/ominous.png
+  chatMessages: ["chat-emote-msg-ominous"]
+  chatTriggers:
+    - feels ominous
+    - stares on in horror
+    - looks uncertain
+    - stares on in fear
+    - looks disappointed
+    - looks ominous
+    - feels a weird route
+    - acts ominous
+    - acts weird
+    - gets freaky with it
+    - remembers you're genocides
+    - remembers your genocides
+  
+- type: emote
+  id: OminousCancel
+  name: chat-emote-name-ominouscancel
+  category: General
+  icon: _faekstation/Interface/Emotes/ominouscancel.png
+  chatMessages: ["chat-emote-msg-ominouscancel"]
+  chatTriggers:
+    - no longer feels ominous
+    - cancels the weird route
+    - looks on in no genocides
+    - doesn't remember your genocides
+  
+- type: emote
+  id: WAPPAmazed
+  name: chat-emote-name-wappamazed
+  category: General
+  icon: _faekstation/Interface/Emotes/wappamazed.png
+  chatMessages: ["chat-emote-msg-wappamazed"]
+  chatTriggers:
+    - looks incredibly amazed
+    - sounds incredibly amazed
+    - looks very impressed
+    - sounds very impressed
+    - goes woa
+    - woa
+    - woas
+    - woahs
+    - woah
+  
+- type: emote
+  id: WAPPAngry
+  name: chat-emote-name-wappangry
+  category: General
+  icon: _faekstation/Interface/Emotes/wappangry.png
+  chatMessages: ["chat-emote-msg-wappangry"]
+  chatTriggers:
+    - sounds incredibly angry
+    - looks incredibly angry
+    - growls like a kid
+    - growls like a child
+    - sounds grumpy
+    - throws a temper tantrum
+  
+- type: emote
+  id: WAPPBye
+  name: chat-emote-name-wappbye
+  category: General
+  icon: _faekstation/Interface/Emotes/wappbye.png
+  chatMessages: ["chat-emote-msg-wappbye"]
+  chatTriggers:
+    - waves bye bye
+    - goes bye bye
+    - waves a silly farewell
+  
+- type: emote
+  id: WAPPCheer
+  name: chat-emote-name-wappcheer
+  category: General
+  icon: _faekstation/Interface/Emotes/wappcheer.png
+  chatMessages: ["chat-emote-msg-wappcheer"]
+  chatTriggers:
+    - looks really happy
+    - sounds really happy
+    - gives a silly cheer
+    - cheers really loudly
+    - goofily cheers
+    - cheers very happily
+  
+- type: emote
+  id: WAPPConfused
+  name: chat-emote-name-wappconfused
+  category: General
+  icon: _faekstation/Interface/Emotes/wappconfused.png
+  chatMessages: ["chat-emote-msg-wappconfused"]
+  chatTriggers:
+    - looks really confused
+    - looks really really confused
+    - look really, really confused
+    - looks dumbfounded
+    - sounds really confused
+  
+- type: emote
+  id: WAPPCry
+  name: chat-emote-name-wappcry
+  category: General
+  icon: _faekstation/Interface/Emotes/wappcry.png
+  chatMessages: ["chat-emote-msg-wappcry"]
+  chatTriggers:
+    - sobs like a baby
+    - sobs like a child
+    - cries like a child
+    - cries like a baby
+    - cries their eyes out
+    - crys
+    - cries cartoonishly
+    - goofily cries
+  
+- type: emote
+  id: WAPPDisgust
+  name: chat-emote-name-wappdisgust
+  category: General
+  icon: _faekstation/Interface/Emotes/wappdisgust.png
+  chatMessages: ["chat-emote-msg-wappdisgust"]
+  chatTriggers:
+    - looks extremely disgusted
+    - goes blegh
+    - sounds extremely disgusted
+    - looks really grossed out
+    - looks grossed out
+    - sounds grossed out
+    - sounds really grossed out
+  
+- type: emote
+  id: WAPPEvilLaugh
+  name: chat-emote-name-wappevillaugh
+  category: General
+  icon: _faekstation/Interface/Emotes/wappevillaugh.png
+  chatMessages: ["chat-emote-msg-wappevillaugh"]
+  chatTriggers:
+    - goes muhahahaha
+    - giggles mischievously
+    - laughs evilly
+    - goes muhehehehe
+    - sounds super evil
+    - looks super evil
+  
+- type: emote
+  id: WAPPFaint
+  name: chat-emote-name-wappfaint
+  category: General
+  icon: _faekstation/Interface/Emotes/wappfaint.png
+  chatMessages: ["chat-emote-msg-wappfaint"]
+  chatTriggers:
+    - dramatically faints
+    - passes the fuck out
+    - faints dramatically
+    - seizes up and falls limp
+    - faints from pure shock
+    - faints from shock
+  
+- type: emote
+  id: WAPPHi
+  name: chat-emote-name-wapphi
+  category: General
+  icon: _faekstation/Interface/Emotes/wapphi.png
+  chatMessages: ["chat-emote-msg-wapphi"]
+  chatTriggers:
+    - waves hi hi
+    - goes hi hi
+    - waves a silly greeting
+  
+- type: emote
+  id: WAPPLaugh
+  name: chat-emote-name-wapplaugh
+  category: General
+  icon: _faekstation/Interface/Emotes/wapplaugh.png
+  chatMessages: ["chat-emote-msg-wapplaugh"]
+  chatTriggers:
+    - does a silly laugh
+    - goofily laughs
+    - giggles like a child
+    - does a childish laugh
+    - lets out a goofy laugh
+  
+- type: emote
+  id: WAPPScream
+  name: chat-emote-name-wappscream
+  category: General
+  icon: _faekstation/Interface/Emotes/wappscream.png
+  chatMessages: ["chat-emote-msg-wappscream"]
+  chatTriggers:
+    - SCREAAMSS
+    - screams like a kid
+    - screams like a child
+    - goofily screams
+    - lets out a silly scream
+    - screams sillily
+  
+- type: emote
+  id: WAPPShocked
+  name: chat-emote-name-wappshocked
+  category: General
+  icon: _faekstation/Interface/Emotes/wappshocked.png
+  chatMessages: ["chat-emote-msg-wappshocked"]
+  chatTriggers:
+    - looks incredibly shocked
+    - sounds incredibly shocked
+    - takes a really deep inhale
+    - cartoonishly inhales
+    - goofily inhales
+    - sounds really shocked
+    - looks really shocked
+  
+- type: emote
+  id: WAPPThinking
+  name: chat-emote-name-wappthinking
+  category: General
+  icon: _faekstation/Interface/Emotes/wappthinking.png
+  chatMessages: ["chat-emote-msg-wappthinking"]
+  chatTriggers:
+    - thinks inquisitively
+    - does a big think
+    - thonks
+    - hmms
+    - hms
+    - thinks really hard
