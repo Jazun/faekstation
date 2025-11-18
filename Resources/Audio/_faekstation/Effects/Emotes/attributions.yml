@@ -1,25 +1,24 @@
 - files:
-  - WAAP-Amazed.ogg
-  - WAAP-Angry.ogg
-  - WAAP-Bye.ogg
-  - WAAP-Cheer.ogg
-  - WAAP-Confused.ogg
-  - WAAP-Cry.ogg
-  - WAAP-Disgust.ogg
-  - WAAP-EvilLaugh.ogg
-  - WAAP-Faint.ogg
-  - WAAP-Hi.ogg
-  - WAAP-Laugh.ogg
-  - WAAP-Scream.ogg
-  - WAAP-Shocked.ogg
-  - WAAP-Thinking.ogg
+  - WAPP-Amazed.ogg
+  - WAPP-Angry.ogg
+  - WAPP-Bye.ogg
+  - WAPP-Cheer.ogg
+  - WAPP-Confused.ogg
+  - WAPP-Cry.ogg
+  - WAPP-Disgust.ogg
+  - WAPP-EvilLaugh.ogg
+  - WAPP-Faint.ogg
+  - WAPP-Hi.ogg
+  - WAPP-Laugh.ogg
+  - WAPP-Scream.ogg
+  - WAPP-Shocked.ogg
+  - WAPP-Thinking.ogg
   license: "CC0-1.0"
   copyright: "Dued1 (Work At A Pizza Place)"
   source: "https://x.com/Dued1_Roblox/status/1822357202923077726"
-
 - files:
   - snd_ominous.ogg
   - snd_ominous_cancel.ogg
-  license: "CC0-1.0"
+  license: "CC-BY-4.0"
   copyright: "DELTARUNE - TOBY FOX"
   source: "https://deltarune.com/"
