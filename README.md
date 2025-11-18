@@ -6,7 +6,7 @@
 
 \+ snd_ominous and snd_ominous_cancel emote sounds
 
-\+ Icarus Winters moth plushie
+\+ Icarus Winters moth plushie / Error plushie
 
 \- Players and contributors
 
