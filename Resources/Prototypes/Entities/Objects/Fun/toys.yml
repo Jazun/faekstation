@@ -776,6 +776,34 @@
   - type: EmitSoundOnTrigger
     sound:
       path: /Audio/Voice/Human/malescream_5.ogg
+      
+- type: entity
+  parent: BasePlushie
+  id: PlushieError
+  name: error plushie
+  description: Please merge my pull request this is very important fix trust
+  components:
+  - type: Sprite
+    state: plushie_error
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/_faekstation/Items/gmod.ogg
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/_faekstation/Items/gmod.ogg
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/_faekstation/Items/gmod.ogg
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      path: /Audio/_faekstation/Items/gmod.ogg
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/_faekstation/Items/gmod.ogg
+  - type: EmitSoundOnTrigger
+    sound:
+      path: /Audio/_faekstation/Items/gmod.ogg
 
 - type: entity
   parent: BasePlushie

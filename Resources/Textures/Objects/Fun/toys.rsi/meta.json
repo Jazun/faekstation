@@ -427,6 +427,17 @@
         },
         {
             "name": "harpyplushie"
+        },
+        {
+            "name": "plushie_error",
+			"delays": [
+				[
+					0.1,
+					0.1,
+					0.1,
+					0.1
+				]
+			]
         }
     ]
 }
