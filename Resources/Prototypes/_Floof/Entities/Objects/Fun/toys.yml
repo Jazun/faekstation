@@ -1969,3 +1969,34 @@
   - type: Reflect
     reflectProb: .01 # joke chance of 1% to reflect
     spread: 75
+
+- type: entity
+  parent: BasePlushie
+  id: IcarusPlushie
+  name: icarus plushie
+  description: Look at this Lamborghini
+  components:
+  - type: Sprite
+    sprite: _Floof/Objects/Fun/floof_plush.rsi
+    state: icarusplush
+  - type: UseDelay
+    delay: 3.0
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/Voice/Moth/moth_scream.ogg
+      params:
+        volume: 2
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/Voice/Moth/moth_scream.ogg
+      params:
+        volume: 2
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Voice/Moth/moth_scream.ogg
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/Voice/Moth/moth_scream.ogg
+      params:
+        variation: 0.05
+        volume: 4

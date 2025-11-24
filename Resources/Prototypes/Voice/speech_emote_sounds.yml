@@ -717,6 +717,31 @@
       collection: Salutes
     Blink: # Imp
       collection: Blinks # Imp
+    # faekstation
+    Ominous:
+      collection: Ominouses
+    OminousCancel:
+      collection: OminousCancels
+    WAPPAmazed:
+      collection: WAPPAmazeds
+    WAPPAngry:
+      collection: WAPPAngrys
+    WAPPBye:
+      collection: WAPPByes
+    WAPPCheer:
+      collection: WAPPCheers
+    WAPPConfused:
+      collection: WAPPConfuseds
+    WAPPCry:
+      collection: WAPPCrys
+    WAPPDisgust:
+      collection: WAPPDisgusts
+    WAPPEvilLaugh:
+      collection: WAPPEvilLaughs
+    WAPPFaint:
+      collection: WAPPFaints
+    WAPPHi:
+      collection: WAPPHis
 
 - type: emoteSounds
   id: DionaBodyEmotes
