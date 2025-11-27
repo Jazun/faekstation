@@ -173,7 +173,10 @@
             "name": "twotailedcommand"
         },
         {
+            "name": "detectivevulps"
+        },
+		{
             "name": "icarusplush"
-        }
+		},
     ]
 }
