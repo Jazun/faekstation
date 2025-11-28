@@ -742,6 +742,14 @@
       collection: WAPPFaints
     WAPPHi:
       collection: WAPPHis
+    WAPPLaugh:
+      collection: WAPPLaughs
+    WAPPScream:
+      collection: WAPPScreams
+    WAPPShocked:
+      collection: WAPPShockeds
+    WAPPThinking:
+      collection: WAPPThinkings
 
 - type: emoteSounds
   id: DionaBodyEmotes
