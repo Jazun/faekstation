@@ -17,6 +17,8 @@
     - gets freaky with it
     - remembers you're genocides
     - remembers your genocides
+    - will remember that
+    - may remember that
   
 - type: emote
   id: OminousCancel
@@ -29,12 +31,61 @@
     - cancels the weird route
     - looks on in no genocides
     - doesn't remember your genocides
+    - wont remember that
+    - won't remember that
+    
+- type: emote
+  id: Crack
+  name: chat-emote-name-crack
+  category: Hands
+  icon: _faekstation/Interface/Emotes/crack.png
+  whitelist:
+    components:
+    - Hands
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["chat-emote-msg-crack"] # cracks <{THEIR($ent)}> knuckles?
+  chatTriggers:
+    - crack
+    - cracks
+    - cracks knuckles
+    - cracks his knuckles
+    - cracks her knuckles
+    - cracks their knuckles
+    - cracks its knuckles
+    - cracks its' knuckles
+    - cracks back
+    - cracks his back
+    - cracks her back
+    - cracks their back
+    - cracks its back
+    - cracks its' back
+    - cracks neck
+    - cracks his neck
+    - cracks her neck
+    - cracks their neck
+    - cracks its neck
+    - cracks its' neck
+    - cracks fingers
+    - cracks his fingers
+    - cracks her fingers
+    - cracks their fingers
+    - cracks its fingers
+    - cracks its' fingers
+    - cracks toes
+    - cracks his toes
+    - cracks her toes
+    - cracks their toes
+    - cracks its toes
+    - cracks its' toes
   
 - type: emote
   id: WAPPAmazed
   name: chat-emote-name-wappamazed
   category: General
   icon: _faekstation/Interface/Emotes/wappamazed.png
+  whitelist:
   chatMessages: ["chat-emote-msg-wappamazed"]
   chatTriggers:
     - looks incredibly amazed
@@ -75,7 +126,7 @@
 - type: emote
   id: WAPPCheer
   name: chat-emote-name-wappcheer
-  category: General
+  category: 
   icon: _faekstation/Interface/Emotes/wappcheer.png
   chatMessages: ["chat-emote-msg-wappcheer"]
   chatTriggers:

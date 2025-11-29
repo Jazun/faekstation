@@ -15,6 +15,7 @@ chat-emote-name-wapplaugh = Laugh
 chat-emote-name-wappscream = SCREAM
 chat-emote-name-wappshocked = Shocked!!
 chat-emote-name-wappthinking = Thinking...
+chat-emote-name-crack = Crack Knuckles
 
 # Message
 chat-emote-msg-ominous = feels ominous...
@@ -33,3 +34,4 @@ chat-emote-msg-wapplaugh = giggles like a child.
 chat-emote-msg-wappscream = SCREAAMSS!!!!
 chat-emote-msg-wappshocked = looks incredibly shocked!
 chat-emote-msg-wappthinking = thonks...
+chat-emote-msg-crack = cracks {POSS-ADJ($entity)} knuckles.

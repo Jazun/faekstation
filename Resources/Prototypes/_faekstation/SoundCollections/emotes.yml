@@ -1,4 +1,9 @@
 - type: soundCollection
+  id: Cracks
+  files:
+    - /Audio/_faekstation/Effects/Emotes/crack.ogg
+    
+- type: soundCollection
   id: Ominouses
   files:
     - /Audio/_faekstation/Effects/Emotes/snd_ominous.ogg

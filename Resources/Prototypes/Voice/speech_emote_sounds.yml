@@ -718,6 +718,8 @@
     Blink: # Imp
       collection: Blinks # Imp
     # faekstation
+    Crack:
+      collection: Cracks
     Ominous:
       collection: Ominouses
     OminousCancel:
@@ -769,6 +771,41 @@
        volume: -5
     Blink: # Imp
       collection: Blinks # Imp
+    # faekstation
+    Crack:
+      collection: Cracks
+    Ominous:
+      collection: Ominouses
+    OminousCancel:
+      collection: OminousCancels
+    WAPPAmazed:
+      collection: WAPPAmazeds
+    WAPPAngry:
+      collection: WAPPAngrys
+    WAPPBye:
+      collection: WAPPByes
+    WAPPCheer:
+      collection: WAPPCheers
+    WAPPConfused:
+      collection: WAPPConfuseds
+    WAPPCry:
+      collection: WAPPCrys
+    WAPPDisgust:
+      collection: WAPPDisgusts
+    WAPPEvilLaugh:
+      collection: WAPPEvilLaughs
+    WAPPFaint:
+      collection: WAPPFaints
+    WAPPHi:
+      collection: WAPPHis
+    WAPPLaugh:
+      collection: WAPPLaughs
+    WAPPScream:
+      collection: WAPPScreams
+    WAPPShocked:
+      collection: WAPPShockeds
+    WAPPThinking:
+      collection: WAPPThinkings
 
 - type: emoteSounds
   id: ReptilianBodyEmotes
@@ -789,6 +826,41 @@
       collection: Salutes
     Blink: # Imp
       collection: Blinks # Imp
+    # faekstation
+    Crack:
+      collection: Cracks
+    Ominous:
+      collection: Ominouses
+    OminousCancel:
+      collection: OminousCancels
+    WAPPAmazed:
+      collection: WAPPAmazeds
+    WAPPAngry:
+      collection: WAPPAngrys
+    WAPPBye:
+      collection: WAPPByes
+    WAPPCheer:
+      collection: WAPPCheers
+    WAPPConfused:
+      collection: WAPPConfuseds
+    WAPPCry:
+      collection: WAPPCrys
+    WAPPDisgust:
+      collection: WAPPDisgusts
+    WAPPEvilLaugh:
+      collection: WAPPEvilLaughs
+    WAPPFaint:
+      collection: WAPPFaints
+    WAPPHi:
+      collection: WAPPHis
+    WAPPLaugh:
+      collection: WAPPLaughs
+    WAPPScream:
+      collection: WAPPScreams
+    WAPPShocked:
+      collection: WAPPShockeds
+    WAPPThinking:
+      collection: WAPPThinkings
 
 # mobs
 - type: emoteSounds
