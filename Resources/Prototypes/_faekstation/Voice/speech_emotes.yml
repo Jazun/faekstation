@@ -126,7 +126,7 @@
 - type: emote
   id: WAPPCheer
   name: chat-emote-name-wappcheer
-  category: 
+  category: General
   icon: _faekstation/Interface/Emotes/wappcheer.png
   chatMessages: ["chat-emote-msg-wappcheer"]
   chatTriggers:
