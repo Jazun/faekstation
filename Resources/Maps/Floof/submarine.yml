@@ -221825,6 +221825,18 @@ entities:
     - type: Transform
       pos: -6.5,11.5
       parent: 2
+- proto: SpawnPointMedicalQuadborg
+  entities:
+  - uid: 41777
+    components:
+    - type: Transform
+      pos: -7.5,-1.5
+      parent: 2
+  - uid: 41778
+    components:
+    - type: Transform
+      pos: -6.5,-1.5
+      parent: 2
 - proto: SpawnPointMime
   entities:
   - uid: 3708
@@ -222271,6 +222283,18 @@ entities:
     components:
     - type: Transform
       pos: 36.5,25.5
+      parent: 2
+- proto: SpawnPointServiceQuadborg
+  entities:
+  - uid: 41779
+    components:
+    - type: Transform
+      pos: 46.5,44.5
+      parent: 2
+  - uid: 41780
+    components:
+    - type: Transform
+      pos: 46.5,42.5
       parent: 2
 - proto: SpawnPointServiceWorker
   entities:
