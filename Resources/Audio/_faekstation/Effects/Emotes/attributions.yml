@@ -16,6 +16,7 @@
   license: "CC0-1.0"
   copyright: "Dued1 (Work At A Pizza Place)"
   source: "https://x.com/Dued1_Roblox/status/1822357202923077726"
+  
 - files:
   - snd_ominous.ogg
   - snd_ominous_cancel.ogg
@@ -29,7 +30,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - files:
-    - crack.ogg
+  - crack.ogg
   license: "CC-BY-4.0"
   copyright: "Made by CGEffex on freesound.org. Shortened and cut by lewcc."
   source: "https://freesound.org/people/CGEffex/sounds/93981/"
