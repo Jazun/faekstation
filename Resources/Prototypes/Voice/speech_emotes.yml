@@ -439,6 +439,7 @@
   chatMessages: [ mars ]
   chatTriggers:
     - mars
+    - mar
 
 - type: emote
   id: Wurble
@@ -456,3 +457,4 @@
   chatMessages: [ wurble ]
   chatTriggers:
     - wurble
+    - wurbles
