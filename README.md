@@ -4,11 +4,15 @@
 
 \+ Work at a Pizza Place emote sounds
 
+\+ Knuckle cracking emote sounds
+
 \+ snd_ominous and snd_ominous_cancel emote sounds
 
 \+ Icarus Winters moth plushie / Error plushie
 
-\- Players and contributors
+\+ Some picky grammar fixes that nobody else cared enough about to fix
+
+\- Players and contributors (I eated them they're all gone)
 
 ## About
 
