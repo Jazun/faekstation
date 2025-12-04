@@ -29,3 +29,9 @@
   license: "CC-BY-SA-4.0"
   copyright: "Twitter"
   source: "https://github.com/twitter/twemoji"
+  
+- files: 
+  - frown.png
+  license: "Custom" # uh oh
+  copyright: "Nickelodeon - Spongebob Squarepants"
+  source: "https://www.nick.com/"

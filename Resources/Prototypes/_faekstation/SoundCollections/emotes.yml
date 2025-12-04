@@ -82,3 +82,8 @@
   id: WAPPThinkings
   files:
     - /Audio/_faekstation/Effects/Emotes/WAPP-Thinking.ogg
+    
+- type: soundCollection
+  id: Frown
+  files:
+    - /Audio/_faekstation/Effects/Emotes/frown.ogg

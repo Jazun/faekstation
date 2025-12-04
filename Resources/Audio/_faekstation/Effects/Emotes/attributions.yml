@@ -34,3 +34,9 @@
   license: "CC-BY-4.0"
   copyright: "Made by CGEffex on freesound.org. Shortened and cut by lewcc."
   source: "https://freesound.org/people/CGEffex/sounds/93981/"
+
+- files:
+  - frown.ogg
+  license: "Custom" # this is totally not ethical
+  copyright: "Low Bork produced by Sound Ideas and owned by Hanna-Barbera."
+  source: "https://sounddogs.com/Search?RecordingType=Sound%20Effects%20and%20Music&NavSearch=True&keywords=10293434"

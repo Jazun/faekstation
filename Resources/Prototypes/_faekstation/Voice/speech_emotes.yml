@@ -299,3 +299,13 @@
     - hmms
     - hms
     - thinks really hard
+    
+- type: emote
+  id: Frown
+  name: chat-emote-name-frown
+  category: General
+  icon: _faekstation/Interface/Emotes/frown.png
+  chatMessages: ["chat-emote-msg-frown"]
+  chatTriggers:
+    - frown
+    - frowns

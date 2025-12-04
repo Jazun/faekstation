@@ -752,6 +752,8 @@
       collection: WAPPShockeds
     WAPPThinking:
       collection: WAPPThinkings
+    Frown:
+      collection: Frown
 
 - type: emoteSounds
   id: DionaBodyEmotes
@@ -806,6 +808,8 @@
       collection: WAPPShockeds
     WAPPThinking:
       collection: WAPPThinkings
+    Frown:
+      collection: Frown
 
 - type: emoteSounds
   id: ReptilianBodyEmotes
@@ -861,6 +865,8 @@
       collection: WAPPShockeds
     WAPPThinking:
       collection: WAPPThinkings
+    Frown:
+      collection: Frown
 
 # mobs
 - type: emoteSounds

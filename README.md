@@ -2,19 +2,21 @@
 
 ## Differences
 
-\+ Work at a Pizza Place emote sounds
+\+ Work at a Pizza Place emote sounds, snd_ominous and snd_ominous_cancel emote sounds (all of which are not panned correctly and I'm too lazy to figure out why)
 
-\+ Knuckle cracking emote sounds
-
-\+ snd_ominous and snd_ominous_cancel emote sounds
+\+ Knuckle cracking emote sounds (which ARE panned correctly)
 
 \+ Icarus Winters moth plushie / Error plushie
 
 \+ Some picky grammar fixes that nobody else cared enough about to fix
 
+\+ Questionable legal practices
+
 \- Players and contributors (I eated them they're all gone)
 
 ## About
+
+Some images and / or sounds that reference popular meme culture in this project are not licensed under Creative Commons.
 
 faek station is a friend-only server of the game [Space Station 14](https://spacestation14.com/).
 
