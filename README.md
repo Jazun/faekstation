@@ -2,13 +2,15 @@
 
 ## Differences
 
-\+ Work at a Pizza Place emote sounds, snd_ominous and snd_ominous_cancel emote sounds (all of which are not panned correctly and I'm too lazy to figure out why)
+\+ Work at a Pizza Place emote sounds, snd_ominous and snd_ominous_cancel emote sounds, boowomp sound for frowning
 
-\+ Knuckle cracking emote sounds (which ARE panned correctly)
+\+ Knuckle cracking emote sounds
 
 \+ Icarus Winters moth plushie / Error plushie
 
 \+ Some picky grammar fixes that nobody else cared enough about to fix
+
+\+ Tarazicon honeymoth chemical
 
 \+ Questionable legal practices
 
