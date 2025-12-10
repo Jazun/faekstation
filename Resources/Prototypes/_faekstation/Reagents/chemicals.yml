@@ -1,0 +1,120 @@
+- type: reagent
+  id: HoneymothVenom
+  name: reagent-name-honeymothvenom
+  group: Medicine
+  desc: reagent-desc-honeymothvenom
+  physicalDesc: reagent-physical-desc-syrupy
+  flavor: sweet
+  color: "#f9ea4a"
+  metabolisms:
+    Medicine:
+      metabolismRate : 0.03
+      effects:
+      
+        # luau
+      - !type:PopupMessage
+        type: Local
+        visualType: Medium
+        messages:
+          - "reagent-effect-honeymothvenom1"
+          - "reagent-effect-honeymothvenom2"
+          - "reagent-effect-honeymothvenom3"
+          - "reagent-effect-honeymothvenom4"
+          - "reagent-effect-honeymothvenom5"
+          - "reagent-effect-honeymothvenom6"
+          - "reagent-effect-honeymothvenom7"
+        probability: 0.04
+      
+        # 10u
+        
+      - !type:MovespeedModifier
+        conditions:
+        - !type:ReagentThreshold
+          min: 10
+        walkSpeedModifier: 0.77
+        sprintSpeedModifier: 0.77
+        
+        # 15u
+        
+      - !type:MovespeedModifier
+        conditions:
+        - !type:ReagentThreshold
+          min: 15
+        walkSpeedModifier: 0.55
+        sprintSpeedModifier: 0.55
+        
+        # 20u
+        
+      - !type:MovespeedModifier
+        conditions:
+        - !type:ReagentThreshold
+          min: 20
+        walkSpeedModifier: 0.33
+        sprintSpeedModifier: 0.33
+      - !type:PopupMessage
+        type: Local
+        visualType: Large
+        messages:
+          - "reagent-effect-honeymothbadvenom1"
+          - "reagent-effect-honeymothbadvenom3"
+          - "reagent-effect-honeymothbadvenom2"
+          - "reagent-effect-honeymothbadvenom4"
+          - "reagent-effect-honeymothbadvenom5"
+          - "reagent-effect-honeymothbadvenom6"
+          - "reagent-effect-honeymothbadvenom7"
+        probability: 0.08
+        conditions:
+        - !type:ReagentThreshold
+          min: 20
+        
+        
+        # 25u
+      - !type:Paralyze
+        conditions:
+        - !type:ReagentThreshold
+          min: 25
+      - !type:GenericStatusEffect
+        key: Stutter
+        component: StutteringAccent
+        conditions:
+        - !type:ReagentThreshold
+          min: 25
+          
+        # 30u
+        
+      - !type:HealthChange # poisons you on OD
+        conditions:
+        - !type:ReagentThreshold
+          min: 30
+        damage:
+          types:
+            Poison: 0.04
+          
+        # 40u
+        
+      - !type:GenericStatusEffect
+        key: SeeingRainbows
+        component: SeeingRainbows
+        type: Add
+        time: 3
+        refresh: false
+        conditions:
+        - !type:ReagentThreshold
+          min: 30
+      - !type:GenericStatusEffect
+        key: Muted
+        component: Muted
+        conditions:
+        - !type:ReagentThreshold
+          min: 40
+        
+        # 50u
+        
+      - !type:GenericStatusEffect
+        conditions:
+        - !type:ReagentThreshold
+          min: 50
+        key: ForcedSleep
+        component: ForcedSleeping
+        refresh: false
+        type: Add
