@@ -1,19 +1,18 @@
-
-# faek station
-=======
 <img width="1116" height="392" alt="rebase" src="https://github.com/user-attachments/assets/91eccd27-9618-46ac-9d58-e67e2e9b0a42" />
 
-# End Of Life Notice: Repository Rebase in Progress
-This project is currently in process of being rebased on top of delta-v. This repository is no longer maintained and will be archived after our main server changes around 1st of March, 2026. Our new repository URL is https://github.com/Floof-Station/Panta-Rhei/ .
+## End Of Life Notice: Repository Rebase in Progress
+The project this is forked from is currently in process of being rebased on top of delta-v. The repository is no longer maintained and will be archived after the main server changes around 1st of March, 2026. The new repository URL is https://github.com/Floof-Station/Panta-Rhei/ .
 
-## Why are we doing this?
-- First off, Wizden is planning to [dehub all servers that use an engine version older than 1 year](https://forum.spacestation14.com/t/we-will-now-have-an-engine-support-period-old-servers-must-update/25672/1), starting on the 1st of march, 2026. This means that this project cannot continue existing unless we upgrade 30+ engine versions up.
-- We cannot update our engine version because of massive codebase incompatibilities. And we cannot merge wizden changes because EE made its codebase incompatible with wizden. And we are an EE fork.
-- We cannot merge EE because our design and principles have diverged. EE focuses on writing sloppy code and unmaintainable code, and starting somewhere in 2025 began targetting LRP forks rather than MRP+ as its founders intended. Also, we are so far behind that even if we were to just merge with EE, it'd take us months to catch up.
+## Why are they doing this?
+- First off, Wizden is planning to [dehub all servers that use an engine version older than 1 year](https://forum.spacestation14.com/t/we-will-now-have-an-engine-support-period-old-servers-must-update/25672/1), starting on the 1st of march, 2026. This means that the project cannot continue existing unless they upgrade 30+ engine versions up.
+- They cannot update our engine version because of massive codebase incompatibilities. And they cannot merge wizden changes because EE made its codebase incompatible with wizden. And they are an EE fork.
+- They cannot merge EE because their design and principles have diverged. EE focuses on writing sloppy code and unmaintainable code, and starting somewhere in 2025 began targetting LRP forks rather than MRP+ as its founders intended. Also, they are so far behind that even if they were to just merge with EE, it'd take them months to catch up.
 
-As such, we've decided to rebase on top of Delta-v, the fork of Space Station 14 that Einstein Engines, the upstream of this fork, was based on.
+As such, they decided to rebase on top of Delta-v, the fork of Space Station 14 that Einstein Engines, the upstream of that fork, was based on.
 
-This is a manual rebase, meaning that we are porting existing content on top of the delta-v codebase.
+This is a manual rebase, meaning that they are porting existing content on top of the delta-v codebase.
+
+# faek station
 
 ## Differences
 
